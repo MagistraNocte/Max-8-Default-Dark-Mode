@@ -13,7 +13,12 @@ Download `default_dark_mode.maxtheme` and put it in the `themes` folder.
 
 Please note: after a Max update or reinstall you have to repeat this procedure.
 
-Now you can select the `default_dark_mode` theme in Max preferences (`interfaces > Color Theme`), it will be applied to the whole program (not just a single patcher) like any other defaul installed themes. Please note: like all other default installed themes, this only affects the current computer Max in installed to.  
+Now you can select the `default_dark_mode` theme in Max preferences (`interfaces > Color Theme`), it will be applied to the whole program (not just a single patcher) like any other defaul installed themes. Please note: like all other default installed themes, this only affects the current computer Max is installed to.  
 
+## Contribution
 
+If you want to suggest changes just open an issue and discuss it, or make a pull request. Every feedback is appreciated!
+<br/>
+<br/>
+<br/>
 ![example](https://user-images.githubusercontent.com/38999587/115965388-59934d00-a529-11eb-9719-7f99118a9d8f.jpg)
