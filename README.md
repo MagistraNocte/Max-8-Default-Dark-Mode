@@ -5,7 +5,7 @@ A Dark version of the "default" theme of [Max 8](http://cycling74.com/products/m
 
 Download the `Max 8 Default Dark Mode` folder and put it in the `Packages` folder located in the Max library.
 
-Now you can select the `default_dark_mode` theme in Max preferences (`interfaces > Color Theme`), it will be applied to the whole program (not just a single patcher) like any other defaul installed themes. Please note: like all other default installed themes, this only affects the current computer Max is installed to.  
+Now you can select the `default_dark_mode` theme in Max preferences (`interfaces > Color Theme`), it will be applied to the whole program (not just a single patcher) like any other defaul installed themes. Please note: like all other default installed themes, this only affects the current computer Max is installed on.  
 
 ## Contribution
 
