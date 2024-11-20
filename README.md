@@ -1,3 +1,6 @@
+# NEW VERSION
+An updated and better version of this theme is available for Max 9 [here](https://github.com/MagistraNocte/Max-9-Better-Default-Theme).
+
 # Max 8 Default Dark Mode
 A Dark version of the "default" theme of [Max 8](http://cycling74.com/products/max/). Ease your eyes!
 
